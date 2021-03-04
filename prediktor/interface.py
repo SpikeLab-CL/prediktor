@@ -1,3 +1,7 @@
+import numpy as np
+import pandas as pd
+import time
+
 class Predictor(object):
     
     def __init__(
