@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "prediktor"
-version = "0.1.0"
+version = "0.1.1"
 description = "Universal prediction interface for deploying ML models"
 authors = ["mavillan <mavillan@spikelab.xyz>"]
 
